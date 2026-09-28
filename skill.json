@@ -1,0 +1,9 @@
+{
+  "name": "genpark-int8-symmetric-per-tensor-quantizer-skill",
+  "version": "1.0.0",
+  "description": "Symmetric INT8 per-tensor and per-channel quantization engine for LLM weights and activations, with SNR and MSE reconstruction telemetry.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
